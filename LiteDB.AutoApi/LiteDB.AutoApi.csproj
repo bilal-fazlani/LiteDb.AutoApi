@@ -10,6 +10,9 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <RepositoryUrl>https://github.com/bilal-fazlani/LiteDb.AutoApi</RepositoryUrl>
   </PropertyGroup>
+  <PropertyGroup>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="LiteDB" Version="4.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
