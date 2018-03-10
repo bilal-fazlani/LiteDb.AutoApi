@@ -2,6 +2,13 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <OutputType>Library</OutputType>
+    <Authors>Bilal Fazlani</Authors>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Description>Want to create an api without writing code? With this library, all you have to do is create models. Persisting of data and exposing rest endpoints will be done automatically.</Description>
+    <PackageTags>dotnet, litedb, autoapi, rest, aspnet core</PackageTags>
+    <PackageProjectUrl>https://github.com/bilal-fazlani/LiteDb.AutoApi</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/bilal-fazlani/LiteDb.AutoApi</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="LiteDB" Version="4.1.1" />
