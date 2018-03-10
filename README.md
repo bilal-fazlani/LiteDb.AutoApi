@@ -3,7 +3,7 @@
 Want to create an api without writing code?
 
 [![Build status](https://ci.appveyor.com/api/projects/status/q99s5ef9xko6k8y0?svg=true)](https://ci.appveyor.com/project/bilal-fazlani/litedb-autoapi)
-[![tests](ttps://img.shields.io/appveyor/tests/bilal-fazlani/litedb-autoapi.svg)](https://ci.appveyor.com/project/bilal-fazlani/litedb-autoapi/build/tests)
+[![tests](https://img.shields.io/appveyor/tests/bilal-fazlani/litedb-autoapi.svg)](https://ci.appveyor.com/project/bilal-fazlani/litedb-autoapi/build/tests)
 [![nuget release](https://img.shields.io/nuget/vpre/LiteDB.AutoApi.svg)](https://www.nuget.org/packages/LiteDB.AutoApi/)
 
 This library let's you create CRUD apis in dotnet core without writing any controller, service or database code. 
