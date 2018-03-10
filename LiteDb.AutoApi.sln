@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteDB.AutoApi", "LiteDB.AutoApi\LiteDB.AutoApi.csproj", "{F57187AA-367C-48BB-BBC8-B720C41B0896}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{852F15DA-7BD4-42DC-A2AF-3E7A649A1422}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F57187AA-367C-48BB-BBC8-B720C41B0896}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F57187AA-367C-48BB-BBC8-B720C41B0896}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F57187AA-367C-48BB-BBC8-B720C41B0896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852F15DA-7BD4-42DC-A2AF-3E7A649A1422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852F15DA-7BD4-42DC-A2AF-3E7A649A1422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852F15DA-7BD4-42DC-A2AF-3E7A649A1422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852F15DA-7BD4-42DC-A2AF-3E7A649A1422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
